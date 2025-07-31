@@ -23,13 +23,13 @@ To explore the growth of the disabled veteran population and its financial impac
 - Created interactive dashboards for policymakers and advocates
 
 ## Repository Structure
-<pre>```Veteran-Support-Analytics/ 
+<pre>Veteran-Support-Analytics/ 
   ├── README.md 
   ├── data/ -Cleaned CSVs for population, disability, and projections
   ├── create_tables.sql -SQL schema creation script 
   ├──eda_queries.sql -Exploratory SQL queries
   ├── dashboards_overview.pdf -Exported Tableau Visuals
-  ├── veteran_data_report.pdf -Final Project write-up
+  ├── veteran_data_report.pdf -Final Project write-up </pre>
 
 ## Portfolio Document
 The full project write-up including schema diagrams, cleaning steps, and query explanations is available in `veteran_data_report.pdf`.
