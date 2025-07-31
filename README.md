@@ -23,7 +23,7 @@ To explore the growth of the disabled veteran population and its financial impac
 - Created interactive dashboards for policymakers and advocates
 
 ## Repository Structure
-veteran-data-analytics/
+Disabled-Veteran-Support-Dashboard-Tableau-SQL-Spreadsheet/
 ├── README.md
 ├── data/
 │ ├── raw/
