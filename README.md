@@ -25,7 +25,7 @@ To explore the growth of the disabled veteran population and its financial impac
 ## Repository Structure
 <pre>Veteran-Support-Analytics/ 
   ├── README.md 
-  ├── data/ -Cleaned CSVs for population, disability, and projections
+  ├── data/ -Raw & Cleaned CSVs for population, disability, and projections
   ├── create_tables.sql -SQL schema creation script 
   ├── eda_queries.sql -Exploratory SQL queries
   ├── dashboards_overview.pdf -Exported Tableau Visuals
