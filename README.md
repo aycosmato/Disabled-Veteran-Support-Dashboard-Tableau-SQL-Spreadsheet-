@@ -23,3 +23,29 @@ To explore the growth of the disabled veteran population and its financial impac
 - Created interactive dashboards for policymakers and advocates
 
 ## Repository Structure
+veteran-data-analytics/
+├── README.md
+├── data/
+│ ├── raw/
+│ └── cleaned/
+├── sql/
+│ ├── create_tables.sql
+│ └── eda_queries.sql
+├── notebooks/ (optional Excel or Jupyter notebooks)
+├── tableau/
+│ └── dashboards_overview.pdf
+└── veteran_data_report.pdf
+
+## Portfolio Document
+The full project write-up including schema diagrams, cleaning steps, and query explanations is available in `veteran_data_report.pdf`.
+
+## Tableau Dashboard
+[(https://public.tableau.com/app/profile/avegail.cosmato/viz/VeteranDashboardProject/VARating)]
+
+## About Me
+I built this project to showcase my ability to work across the full data lifecycle—from raw files to clean insights. I'm passionate about using data to influence real-world policy and resource planning, especially for underserved or at-risk communities.
+
+Let’s connect!  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/avegail-cosmato)  
+📫 Contact: aycosmato@gmail.com
+
