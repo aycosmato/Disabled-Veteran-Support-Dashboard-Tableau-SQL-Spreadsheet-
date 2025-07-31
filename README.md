@@ -31,7 +31,6 @@ Disabled-Veteran-Support-Dashboard-Tableau-SQL-Spreadsheet/
 ├── sql/
 │ ├── create_tables.sql
 │ └── eda_queries.sql
-├── notebooks/ (optional Excel or Jupyter notebooks)
 ├── tableau/
 │ └── dashboards_overview.pdf
 └── veteran_data_report.pdf
