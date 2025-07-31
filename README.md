@@ -1,5 +1,5 @@
 # Disabled-Veteran-Support-Analytics: A Data-Driven Look at VA Compensation and Population Trends
-This project integrates public datasets from the VA Open Data portal and the U.S. Census Bureau to analyze trends in the disabled veteran population, compensation rates, and future projections. The goal is to understand the implications of veteran support needs on federal budgets and regional disparities during a period of fiscal constraint.
+This project integrates public datasets from the Veteran Affairs (VA) Open Data portal and the U.S. Census Bureau to analyze trends in the disabled veteran population, compensation rates, and future projections. The goal is to understand the implications of veteran support needs on federal budgets and regional disparities during a period of fiscal constraint.
 
 ## Goal
 To explore the growth of the disabled veteran population and its financial impact on government budgets—highlighting the regional and demographic trends shaping future support service needs.
